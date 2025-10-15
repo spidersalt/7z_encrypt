@@ -7,7 +7,7 @@ Interactively encrypt files using 7z simple bash script
 sudo nvim /usr/local/bin/7z_encrypt.sh
 ```
 
-**Paste the following:**
+**Paste the following:** (This is a simpler version, different from the one uploaded.)
 
 ```javascript
 #!/bin/bash
